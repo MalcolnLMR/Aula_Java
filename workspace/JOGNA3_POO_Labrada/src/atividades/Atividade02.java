@@ -10,10 +10,10 @@ public class Atividade02 {
 	}
 	
 	public static void expressions(int x, int y) {
-		System.out.println("x + y = " + (x+y));		
-		System.out.println("x - y = " + (x-y));		
-		System.out.println("x - (-y) = " + (x-(-y)));		
-		System.out.println("x * (-y) = " + (x*(-y)));
+		System.out.println("x + y = " + (x+=y));		
+		System.out.println("x - y = " + (x-=y));		
+		System.out.println("x - (-y) = " + (x-=(-y)));		
+		System.out.println("x * (-y) = " + (x*=(-y)));
 		
 	}
 	
