@@ -20,9 +20,14 @@ public class Atividade04 {
 		scanner.close();
 		int qtde = pos + neg;
 		double media = soma / qtde;
-		System.out.println("Soma: " + soma + " Positivos: " + pos + " Negativos: " + neg + " Média: " + media + "");
+		System.out.println("Soma: " 
+							+ soma 
+							+ " Positivos: " 
+							+ pos 
+							+ " Negativos: " 
+							+ neg 
+							+ " Média: " 
+							+ media 
+							+ "");
 	}
-	
-	
-
 }
