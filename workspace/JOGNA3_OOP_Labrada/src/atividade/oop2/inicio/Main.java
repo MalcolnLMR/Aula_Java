@@ -1,6 +1,6 @@
-package inicio;
+package atividade.oop2.inicio;
 
-import computador.Notebook;
+import atividade.oop2.computador.Notebook;
 
 public class Main {
 
