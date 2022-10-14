@@ -1,4 +1,4 @@
-package atividade.oop1.hotel;
+package atividades.oop1.hotel;
 
 public class Hospedagem {
 

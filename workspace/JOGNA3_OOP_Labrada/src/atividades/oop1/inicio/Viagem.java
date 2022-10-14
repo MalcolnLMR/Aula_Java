@@ -1,6 +1,6 @@
-package atividade.oop1.inicio;
+package atividades.oop1.inicio;
 
-import atividade.oop1.hotel.Hospedagem;
+import atividades.oop1.hotel.Hospedagem;
 
 public class Viagem {
 	

@@ -1,4 +1,4 @@
-package atividade.oop2.computador;
+package atividades.oop2.computador;
 
 public class Notebook extends Computador{
 	
